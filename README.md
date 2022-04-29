@@ -4,8 +4,8 @@ A marketplace for non-fungible-token. Create, buy, sell, and manage NFTs on the 
 
 # Overview of the protocol:
 
-It contains two contracts, NFT.sol and NftMarket.sol. The Nft.sol contract contains function that enables users with their address to mint NFTs, assign ID and tokkenURI to it. It base contract is the ERC721URIStorage-A ERC721 token with storage based token URI management.
-The NftMarket.sol contract inherits from the ReentrancyGuard to make the nonReentrant modifier available, which can be applied to functions to make sure there are no nested (reentrant) calls to them. It contains functions that can be called to put up nft, get price of nfts, buy nfts. 
+It contains two contracts, NFT.sol and NftMarket.sol. The Nft.sol contract contains function that enables users with their address to mint NFTs, assign ID and tokenURI to it. It's base contract is the ERC721URIStorage-A ERC721 token with storage based token URI management.
+The NftMarket.sol contract inherits from the ReentrancyGuard to make the nonReentrant modifier available, which are applied to functions to make sure there are no nested (reentrant) calls to them. It contains functions that can be called to put up nft, get price of nfts, buy nfts. 
 
 # Overview of the user interface
 
