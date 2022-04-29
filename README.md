@@ -21,3 +21,20 @@ The NftMarket.sol contract inherits from the ReentrancyGuard to make the nonReen
 # My Purchases
 ![Screenshot (1267)](https://user-images.githubusercontent.com/67197664/165944356-efc7be15-8a06-44e2-8d66-55893842daa7.png)
 
+# Tools and Tech Stack
+
+React - front end framework
+
+Solidity - ethereum smart contract language
+
+HardHat - development framework
+
+Web3 - library that interacts with ethereum nodes
+
+JavaScript - handle front end logic and testing smart contracts
+
+IPFS - decentralized file storage system
+
+Infura - connection to IPFS and ethereum networks
+
+Open Zeppelin - smart contract libraries and test helpers
