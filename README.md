@@ -1,6 +1,6 @@
 # Ethersea
 
-A marketplace for non-fungible-token. Create, buy, sell, and manage NFTs on the blockchain.Every NFT has a name, description and image associated with it. The name and description are stored on the blockchain directly while the images themselves are stored on IPFS and the reference to those images are stored on the blockchain.
+A marketplace for non-fungible-token. Create, buy, sell, and manage NFTs on the blockchain. Every NFT has a name, description and image associated with it. The name and description are stored on the blockchain directly while the images themselves are stored on IPFS and the reference to those images are stored on the blockchain.
 
 # Overview of the protocol:
 
